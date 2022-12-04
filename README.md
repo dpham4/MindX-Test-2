@@ -76,3 +76,4 @@ Now, we learn about Node and Doubly Linked List, follow by the core structure ab
 When you finished the coding and testing program, create a new git repository and push there. Then send the link (and might the website link) over my email `dpham4@binghamton.edu`, then you finish the work
 
 # MindX-Test-2
+# mindx-midterm-test-2

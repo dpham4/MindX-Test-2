@@ -69,11 +69,10 @@ class DoublyLinkedList {
 
 Now, we learn about Node and Doubly Linked List, follow by the core structure above. I want you to change data structure to Doubly Linked List (Including Remove, Insert new Item as I have implemented the function in the files)
 
-4. I am going back to Vietnam soon, and I really miss Vietnamese Food. Listing for me at least 10 Vietnamese Restaurants that I should eat (Don't care about the money, I will pay all) [Bonus]
+4. I am going back to Vietnam soon, and I really miss Vietnamese Food. List for me at least 10 Vietnamese Restaurants that I should eat (Don't care about the money, I will pay all) [Bonus]
 
 ## Submitting the Project
 
 When you finished the coding and testing program, create a new git repository and push there. Then send the link (and might the website link) over my email `dpham4@binghamton.edu`, then you finish the work
 
-# MindX-Test-2
-# mindx-midterm-test-2
+>>>>>>> 
